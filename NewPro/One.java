@@ -6,7 +6,6 @@ public class One{
         // System.out.println(a.a);
         // System.out.println(a.b);
         
-        
     
     }
 }
